@@ -1,0 +1,18 @@
+{
+  "1" : {
+    "id" : 78,
+    "name" : "tikhon",
+    "coordinates" : {
+      "x" : 12,
+      "y" : 12.0
+    },
+    "creationDate" : "2024-05-01T19:33:19.339509",
+    "salary" : 12412.0,
+    "endDate" : null,
+    "position" : "MANAGER",
+    "status" : "HIRED",
+    "organization" : "exit",
+    "orgtype" : "TRUST",
+    "adress" : "Address{zipCode='14124', town='mirny'}"
+  }
+}

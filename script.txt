@@ -1,0 +1,11 @@
+insert 15
+20
+tikhonn
+12
+12
+2024-03-29T13:46:07.413092
+12312
+DIRECTOR
+FIRED
+alrosa
+execute test1.txt

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab5_test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab5_test_jar</output-path>
+    <root id="archive" name="Lab5_test.jar">
+      <element id="module-output" name="Lab5_test" />
+      <element id="library" level="project" name="google.code.gson" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="fasterxml.jackson.core.databind" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/jackson-annotations-2.17.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/jackson-core-2.17.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/jackson-databind-2.17.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/jackson-datatype-jsr310-2.17.0-rc1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
